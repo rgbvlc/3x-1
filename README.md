@@ -1,1 +1,1 @@
-he is doing a collatz conjecture with the given number
+he is doing a collatz conjecture graph with the given number
